@@ -1,4 +1,4 @@
-# Hi, I'm Your Name 👋
+# Hi, I'm Hurun 👋
 
 ## About Me
 - 🌱 I'm currently learning Git and version control
